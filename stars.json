@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "resemble-ai/Resemblyzer",
+    "stargazers_count": 1655,
+    "open_issues_count": 27,
+    "forks_count": 302
+  },
+  {
+    "full_name": "CorentinJ/Real-Time-Voice-Cloning",
+    "stargazers_count": 30633,
+    "open_issues_count": 8,
+    "forks_count": 5569
+  },
+  {
+    "full_name": "rdbeach/wb",
+    "stargazers_count": 16,
+    "open_issues_count": 11,
+    "forks_count": 12
+  },
+  {
     "full_name": "monicatvera/preview-credit-card",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -13,21 +31,21 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 499,
-    "open_issues_count": 25,
-    "forks_count": 144
+    "stargazers_count": 500,
+    "open_issues_count": 27,
+    "forks_count": 145
   },
   {
     "full_name": "wtm-buea/WTM-official-website",
     "stargazers_count": 2,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 6
   },
   {
     "full_name": "saleor/saleor",
-    "stargazers_count": 14307,
-    "open_issues_count": 244,
-    "forks_count": 4107
+    "stargazers_count": 14319,
+    "open_issues_count": 249,
+    "forks_count": 4111
   },
   {
     "full_name": "wger-project/wger",
@@ -38,8 +56,8 @@
   {
     "full_name": "BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms",
     "stargazers_count": 205,
-    "open_issues_count": 768,
-    "forks_count": 730
+    "open_issues_count": 771,
+    "forks_count": 733
   },
   {
     "full_name": "victorfarias98/arrayswithjavascript",
@@ -49,7 +67,7 @@
   },
   {
     "full_name": "TSiege/Tech-Interview-Cheat-Sheet",
-    "stargazers_count": 2437,
+    "stargazers_count": 2444,
     "open_issues_count": 6,
     "forks_count": 647
   },
@@ -61,13 +79,13 @@
   },
   {
     "full_name": "tannerlinsley/react-query",
-    "stargazers_count": 23229,
-    "open_issues_count": 34,
-    "forks_count": 1164
+    "stargazers_count": 23268,
+    "open_issues_count": 36,
+    "forks_count": 1166
   },
   {
     "full_name": "videolan/vlc-android",
-    "stargazers_count": 1276,
+    "stargazers_count": 1280,
     "open_issues_count": 11,
     "forks_count": 378
   },
@@ -85,32 +103,32 @@
   },
   {
     "full_name": "danistefanovic/build-your-own-x",
-    "stargazers_count": 120470,
-    "open_issues_count": 197,
-    "forks_count": 10899
+    "stargazers_count": 120583,
+    "open_issues_count": 199,
+    "forks_count": 10909
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 147073,
-    "open_issues_count": 252,
-    "forks_count": 27192
+    "stargazers_count": 147224,
+    "open_issues_count": 259,
+    "forks_count": 27228
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 174438,
-    "open_issues_count": 84,
-    "forks_count": 25049
+    "stargazers_count": 174568,
+    "open_issues_count": 85,
+    "forks_count": 25066
   },
   {
     "full_name": "willmcgugan/rich",
-    "stargazers_count": 30260,
-    "open_issues_count": 35,
-    "forks_count": 969
+    "stargazers_count": 30321,
+    "open_issues_count": 38,
+    "forks_count": 970
   },
   {
     "full_name": "rust-embedded/rust-raspberrypi-OS-tutorials",
-    "stargazers_count": 6844,
-    "open_issues_count": 1,
+    "stargazers_count": 6871,
+    "open_issues_count": 0,
     "forks_count": 388
   },
   {
@@ -127,13 +145,13 @@
   },
   {
     "full_name": "indy256/Full-stack-Developer-Interview-Questions-and-Answers",
-    "stargazers_count": 2116,
+    "stargazers_count": 2117,
     "open_issues_count": 1,
     "forks_count": 606
   },
   {
     "full_name": "jferrer/expo-solana-wallet",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 4
-  },
-  {
-    "full_name": "simple-salesforce/simple-salesforce",
-    "stargazers_count": 1189,
-    "open_issues_count": 138,
-    "forks_count": 537
-  },
-  {
-    "full_name": "trailheadapps/az-insurance",
-    "stargazers_count": 28,
-    "open_issues_count": 2,
-    "forks_count": 8
-  },
-  {
-    "full_name": "tsalb/lwc-utils",
-    "stargazers_count": 224,
-    "open_issues_count": 22,
-    "forks_count": 51
   }
 ]
