@@ -1,7 +1,7 @@
 [
   {
     "full_name": "albertopoljak/Licensy",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 11,
     "forks_count": 17
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 99295,
+    "stargazers_count": 99460,
     "open_issues_count": 16,
-    "forks_count": 13623
+    "forks_count": 13643
   },
   {
     "full_name": "SalesforceLabs/survey-force",
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "resemble-ai/Resemblyzer",
-    "stargazers_count": 1662,
+    "stargazers_count": 1664,
     "open_issues_count": 28,
     "forks_count": 304
   },
   {
     "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "stargazers_count": 30763,
-    "open_issues_count": 10,
-    "forks_count": 5603
+    "stargazers_count": 30901,
+    "open_issues_count": 14,
+    "forks_count": 5643
   },
   {
     "full_name": "rdbeach/wb",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 11,
     "forks_count": 13
   },
@@ -55,31 +55,31 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 521,
+    "stargazers_count": 525,
     "open_issues_count": 25,
-    "forks_count": 147
+    "forks_count": 148
   },
   {
     "full_name": "wtm-buea/WTM-official-website",
     "stargazers_count": 2,
-    "open_issues_count": 9,
+    "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "saleor/saleor",
-    "stargazers_count": 14387,
-    "open_issues_count": 259,
-    "forks_count": 4127
+    "stargazers_count": 14400,
+    "open_issues_count": 267,
+    "forks_count": 4132
   },
   {
     "full_name": "wger-project/wger",
-    "stargazers_count": 1592,
-    "open_issues_count": 116,
+    "stargazers_count": 1593,
+    "open_issues_count": 117,
     "forks_count": 377
   },
   {
     "full_name": "BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms",
-    "stargazers_count": 207,
+    "stargazers_count": 206,
     "open_issues_count": 773,
     "forks_count": 733
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "TSiege/Tech-Interview-Cheat-Sheet",
-    "stargazers_count": 2464,
+    "stargazers_count": 2472,
     "open_issues_count": 6,
-    "forks_count": 652
+    "forks_count": 653
   },
   {
     "full_name": "jgettings/food-planner",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "tannerlinsley/react-query",
-    "stargazers_count": 23429,
+    "stargazers_count": 23479,
     "open_issues_count": 32,
-    "forks_count": 1178
+    "forks_count": 1189
   },
   {
     "full_name": "videolan/vlc-android",
-    "stargazers_count": 1283,
+    "stargazers_count": 1285,
     "open_issues_count": 11,
-    "forks_count": 381
+    "forks_count": 383
   },
   {
     "full_name": "mrmaffen/vlc-android-sdk",
@@ -127,33 +127,33 @@
   },
   {
     "full_name": "danistefanovic/build-your-own-x",
-    "stargazers_count": 120981,
+    "stargazers_count": 121107,
     "open_issues_count": 202,
-    "forks_count": 10967
+    "forks_count": 10989
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 147818,
+    "stargazers_count": 148131,
     "open_issues_count": 260,
-    "forks_count": 27345
+    "forks_count": 27413
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 175073,
+    "stargazers_count": 175323,
     "open_issues_count": 88,
-    "forks_count": 25148
+    "forks_count": 25179
   },
   {
     "full_name": "willmcgugan/rich",
-    "stargazers_count": 30572,
-    "open_issues_count": 42,
-    "forks_count": 979
+    "stargazers_count": 30637,
+    "open_issues_count": 47,
+    "forks_count": 985
   },
   {
     "full_name": "rust-embedded/rust-raspberrypi-OS-tutorials",
-    "stargazers_count": 6994,
+    "stargazers_count": 7032,
     "open_issues_count": 0,
-    "forks_count": 395
+    "forks_count": 398
   },
   {
     "full_name": "MahanazAtiqullah/BitArray-and-BitSet-contribution-to-Swift-Collections--A-GSoC-Project",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "indy256/Full-stack-Developer-Interview-Questions-and-Answers",
-    "stargazers_count": 2128,
+    "stargazers_count": 2130,
     "open_issues_count": 2,
-    "forks_count": 609
+    "forks_count": 610
   },
   {
     "full_name": "jferrer/expo-solana-wallet",
-    "stargazers_count": 63,
+    "stargazers_count": 65,
     "open_issues_count": 0,
     "forks_count": 12
   }
