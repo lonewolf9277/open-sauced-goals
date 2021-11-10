@@ -7,7 +7,7 @@
   },
   {
     "full_name": "albertopoljak/Licensy",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 11,
     "forks_count": 20
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 100226,
+    "stargazers_count": 100265,
     "open_issues_count": 15,
-    "forks_count": 13736
+    "forks_count": 13737
   },
   {
     "full_name": "SalesforceLabs/survey-force",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "resemble-ai/Resemblyzer",
-    "stargazers_count": 1674,
-    "open_issues_count": 28,
+    "stargazers_count": 1675,
+    "open_issues_count": 27,
     "forks_count": 308
   },
   {
     "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "stargazers_count": 31108,
+    "stargazers_count": 31136,
     "open_issues_count": 11,
-    "forks_count": 5687
+    "forks_count": 5685
   },
   {
     "full_name": "rdbeach/wb",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 540,
+    "stargazers_count": 541,
     "open_issues_count": 25,
     "forks_count": 151
   },
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "saleor/saleor",
-    "stargazers_count": 14436,
+    "stargazers_count": 14441,
     "open_issues_count": 263,
-    "forks_count": 4141
+    "forks_count": 4140
   },
   {
     "full_name": "wger-project/wger",
-    "stargazers_count": 1611,
-    "open_issues_count": 117,
+    "stargazers_count": 1612,
+    "open_issues_count": 119,
     "forks_count": 376
   },
   {
     "full_name": "BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms",
-    "stargazers_count": 210,
+    "stargazers_count": 211,
     "open_issues_count": 773,
     "forks_count": 734
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "TSiege/Tech-Interview-Cheat-Sheet",
-    "stargazers_count": 2494,
+    "stargazers_count": 2495,
     "open_issues_count": 6,
     "forks_count": 662
   },
@@ -109,19 +109,19 @@
   },
   {
     "full_name": "tannerlinsley/react-query",
-    "stargazers_count": 23599,
-    "open_issues_count": 33,
-    "forks_count": 1200
+    "stargazers_count": 23631,
+    "open_issues_count": 34,
+    "forks_count": 1203
   },
   {
     "full_name": "videolan/vlc-android",
-    "stargazers_count": 1292,
+    "stargazers_count": 1293,
     "open_issues_count": 11,
     "forks_count": 383
   },
   {
     "full_name": "mrmaffen/vlc-android-sdk",
-    "stargazers_count": 791,
+    "stargazers_count": 792,
     "open_issues_count": 77,
     "forks_count": 243
   },
@@ -129,37 +129,37 @@
     "full_name": "shalvah/DownloadThisVideo",
     "stargazers_count": 576,
     "open_issues_count": 3,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "danistefanovic/build-your-own-x",
-    "stargazers_count": 121421,
+    "stargazers_count": 121451,
     "open_issues_count": 205,
-    "forks_count": 11017
+    "forks_count": 11023
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 149211,
+    "stargazers_count": 149305,
     "open_issues_count": 262,
-    "forks_count": 27547
+    "forks_count": 27561
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 175767,
+    "stargazers_count": 175833,
     "open_issues_count": 89,
-    "forks_count": 25221
+    "forks_count": 25223
   },
   {
     "full_name": "willmcgugan/rich",
-    "stargazers_count": 30821,
-    "open_issues_count": 28,
-    "forks_count": 992
+    "stargazers_count": 30839,
+    "open_issues_count": 32,
+    "forks_count": 993
   },
   {
     "full_name": "rust-embedded/rust-raspberrypi-OS-tutorials",
-    "stargazers_count": 7075,
+    "stargazers_count": 7084,
     "open_issues_count": 1,
-    "forks_count": 401
+    "forks_count": 402
   },
   {
     "full_name": "MahanazAtiqullah/BitArray-and-BitSet-contribution-to-Swift-Collections--A-GSoC-Project",
@@ -177,6 +177,6 @@
     "full_name": "indy256/Full-stack-Developer-Interview-Questions-and-Answers",
     "stargazers_count": 2134,
     "open_issues_count": 2,
-    "forks_count": 612
+    "forks_count": 613
   }
 ]
