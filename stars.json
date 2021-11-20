@@ -1,7 +1,7 @@
 [
   {
     "full_name": "horsicq/Detect-It-Easy",
-    "stargazers_count": 2860,
+    "stargazers_count": 2868,
     "open_issues_count": 21,
     "forks_count": 397
   },
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "louelladev/Helpful-Tech-Resources",
-    "stargazers_count": 68,
+    "stargazers_count": 70,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "albertopoljak/Licensy",
     "stargazers_count": 37,
-    "open_issues_count": 8,
+    "open_issues_count": 2,
     "forks_count": 20
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 101023,
+    "stargazers_count": 101094,
     "open_issues_count": 16,
-    "forks_count": 13845
+    "forks_count": 13859
   },
   {
     "full_name": "SalesforceLabs/survey-force",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "stargazers_count": 31276,
-    "open_issues_count": 10,
-    "forks_count": 5717
+    "stargazers_count": 31286,
+    "open_issues_count": 13,
+    "forks_count": 5720
   },
   {
     "full_name": "rdbeach/wb",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 548,
+    "stargazers_count": 549,
     "open_issues_count": 26,
     "forks_count": 154
   },
@@ -103,14 +103,14 @@
   },
   {
     "full_name": "saleor/saleor",
-    "stargazers_count": 14498,
-    "open_issues_count": 271,
-    "forks_count": 4156
+    "stargazers_count": 14502,
+    "open_issues_count": 277,
+    "forks_count": 4161
   },
   {
     "full_name": "wger-project/wger",
     "stargazers_count": 1618,
-    "open_issues_count": 119,
+    "open_issues_count": 120,
     "forks_count": 378
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "TSiege/Tech-Interview-Cheat-Sheet",
-    "stargazers_count": 2522,
+    "stargazers_count": 2527,
     "open_issues_count": 7,
     "forks_count": 676
   },
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "tannerlinsley/react-query",
-    "stargazers_count": 23815,
-    "open_issues_count": 36,
-    "forks_count": 1224
+    "stargazers_count": 23844,
+    "open_issues_count": 37,
+    "forks_count": 1226
   },
   {
     "full_name": "videolan/vlc-android",
-    "stargazers_count": 1304,
+    "stargazers_count": 1306,
     "open_issues_count": 11,
-    "forks_count": 386
+    "forks_count": 387
   },
   {
     "full_name": "mrmaffen/vlc-android-sdk",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "shalvah/DownloadThisVideo",
-    "stargazers_count": 578,
-    "open_issues_count": 3,
+    "stargazers_count": 579,
+    "open_issues_count": 4,
     "forks_count": 78
   },
   {
     "full_name": "danistefanovic/build-your-own-x",
-    "stargazers_count": 121861,
-    "open_issues_count": 206,
-    "forks_count": 11072
+    "stargazers_count": 121890,
+    "open_issues_count": 205,
+    "forks_count": 11076
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 150445,
+    "stargazers_count": 150578,
     "open_issues_count": 265,
-    "forks_count": 27789
+    "forks_count": 27812
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 176360,
-    "open_issues_count": 90,
-    "forks_count": 25305
+    "stargazers_count": 176422,
+    "open_issues_count": 86,
+    "forks_count": 25322
   }
 ]
