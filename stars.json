@@ -13,9 +13,9 @@
   },
   {
     "full_name": "horsicq/Detect-It-Easy",
-    "stargazers_count": 3407,
+    "stargazers_count": 3426,
     "open_issues_count": 26,
-    "forks_count": 452
+    "forks_count": 454
   },
   {
     "full_name": "smcgivern/urm-evaluator",
@@ -38,12 +38,12 @@
   {
     "full_name": "xizon/poemkit",
     "stargazers_count": 73,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "louelladev/Helpful-Tech-Resources",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 0,
     "forks_count": 29
   },
@@ -61,27 +61,27 @@
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 111738,
-    "open_issues_count": 15,
-    "forks_count": 15373
+    "stargazers_count": 111874,
+    "open_issues_count": 17,
+    "forks_count": 15390
   },
   {
     "full_name": "SalesforceLabs/survey-force",
     "stargazers_count": 66,
     "open_issues_count": 5,
-    "forks_count": 54
+    "forks_count": 53
   },
   {
     "full_name": "resemble-ai/Resemblyzer",
-    "stargazers_count": 1866,
+    "stargazers_count": 1867,
     "open_issues_count": 25,
     "forks_count": 349
   },
   {
     "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "stargazers_count": 34355,
-    "open_issues_count": 40,
-    "forks_count": 6345
+    "stargazers_count": 34421,
+    "open_issues_count": 41,
+    "forks_count": 6368
   },
   {
     "full_name": "rdbeach/wb",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 641,
-    "open_issues_count": 14,
-    "forks_count": 224
+    "stargazers_count": 643,
+    "open_issues_count": 16,
+    "forks_count": 233
   },
   {
     "full_name": "wtm-buea/WTM-official-website",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "saleor/saleor",
-    "stargazers_count": 15707,
-    "open_issues_count": 224,
-    "forks_count": 4476
+    "stargazers_count": 15733,
+    "open_issues_count": 231,
+    "forks_count": 4483
   },
   {
     "full_name": "wger-project/wger",
-    "stargazers_count": 1747,
+    "stargazers_count": 1749,
     "open_issues_count": 133,
-    "forks_count": 400
+    "forks_count": 402
   },
   {
     "full_name": "BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "TSiege/Tech-Interview-Cheat-Sheet",
-    "stargazers_count": 2927,
+    "stargazers_count": 2929,
     "open_issues_count": 8,
-    "forks_count": 784
+    "forks_count": 787
   },
   {
     "full_name": "jgettings/food-planner",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "tannerlinsley/react-query",
-    "stargazers_count": 26851,
-    "open_issues_count": 37,
-    "forks_count": 1512
+    "stargazers_count": 26914,
+    "open_issues_count": 33,
+    "forks_count": 1521
   },
   {
     "full_name": "videolan/vlc-android",
-    "stargazers_count": 1472,
+    "stargazers_count": 1473,
     "open_issues_count": 4,
-    "forks_count": 432
+    "forks_count": 433
   },
   {
     "full_name": "mrmaffen/vlc-android-sdk",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "danistefanovic/build-your-own-x",
-    "stargazers_count": 139532,
-    "open_issues_count": 215,
-    "forks_count": 13359
+    "stargazers_count": 139820,
+    "open_issues_count": 224,
+    "forks_count": 13382
   }
 ]
